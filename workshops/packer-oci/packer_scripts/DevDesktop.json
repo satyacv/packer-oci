@@ -1,7 +1,7 @@
  { 
 
       "my.user_ocid":"ocid1.user.oc1..aaaaaaaaoa3vegs4xdr3jcsepk6il2harmjcdejjziafiwit2xm5w24xhsrq",
-      "my.tenancy_ocid": "pasteYourTenancyOCID",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaapnupl4hrnx6r4lrc6c7wozk6gje5lupcqacpvpxts2axwwn2xs4q",
       "my.fingerprint":"21:3f:d2:55:74:7d:ef:98:a7:c4:d0:9f:be:d2:8d:32",
       "my.availability_domain": "pasteYourAvailbilityDomain",
       "my.region": "us-ashburn-1",
